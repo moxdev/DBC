@@ -31,10 +31,10 @@ You are about to embark on a new learning experience. You will be challenged in 
 
 Learning Objectives:
 
-- [ ] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
-- [ ] Identify my 
+- [X] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
+- [X] Identify my 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
-- [ ] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+- [X] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
 
 #### 2. Computer Set-Up
 
